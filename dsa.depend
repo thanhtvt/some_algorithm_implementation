@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598433034 source:d:\uet\dsa\main.cpp
+	<iostream>
+	<cstring>
+
